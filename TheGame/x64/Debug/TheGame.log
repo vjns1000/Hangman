@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\Roaa Emad Eldin\source\repos\TheGame\TheGame\Source.c(15,2): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Users\Roaa Emad Eldin\source\repos\TheGame\TheGame\Source.c(16,10): warning C4013: 'rand' undefined; assuming extern returning int
+C:\Users\Roaa Emad Eldin\source\repos\TheGame\TheGame\Source.c(17,18): warning C4090: 'return': different 'const' qualifiers
+C:\Users\Roaa Emad Eldin\source\repos\TheGame\TheGame\Source.c(41,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  TheGame.vcxproj -> C:\Users\Roaa Emad Eldin\source\repos\TheGame\x64\Debug\TheGame.exe
